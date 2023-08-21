@@ -9,6 +9,10 @@ This is a simple React app that fetches and displays blog posts from the WordPre
 3. Install dependencies using `npm install`.
 4. Run the app using `npm start`.
 
+## Demo
+
+Check out the live demo of the app: [Demo Link](https://Iksich.github.io/react-task)
+
 ## Dependencies
 
 - React
